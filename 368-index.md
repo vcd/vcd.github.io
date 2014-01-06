@@ -30,4 +30,4 @@
 
 # Syllabus
 
-* [Syllabus](https://github.com/vcd/vcd.github.io/blob/master/368-syllabus)
+* [Syllabus](https://github.com/vcd/vcd.github.io/blob/master/368-syllabus.md)
