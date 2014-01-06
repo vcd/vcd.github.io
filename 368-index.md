@@ -1,4 +1,4 @@
-# WK 1: M/T (1/6 & 1/7)
+# WK 1: Mon/Tue (1/6 & 1/7)
 
 ## Web Design
 
