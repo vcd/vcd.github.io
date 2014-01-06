@@ -28,3 +28,6 @@
 	- Section A: Wed. March. 17th at 1pm
 	- Section B: Thur. March. 18th at 3pm
 
+# Syllabus
+
+* [Syllabus](https://github.com/vcd/vcd.github.io/blob/master/368-syllabus)
