@@ -10,9 +10,10 @@
 * CEB 344
 
 ## Office Hours
-* Mon. : 3-4pm
-* Wed. : 11-12pm
-* Tue/Thur : 10-12pm
+* Mon. : 3-4pm CEB 344
+* Wed. : 11-12pm CEB 344 
+* Wed. : 12-1pm CEB 131
+* Tue./Thur : 11-12pm CEB 344
 * Or by appointment
 
 ---
