@@ -3,7 +3,6 @@
 ## Web Design
 
 * [What is Internet (video)](http://www.youtube.com/watch?v=JUs7iG1mNjI)
-* [Art of Web Design (video)](http://www.youtube.com/watch?v=3iVVM_DgWY4)
 
 ## Resources
 
@@ -14,8 +13,7 @@
 ## Assignment 1
 
 * Due Friday, 1/10 at 10am
-* [Assignmnet 1]()
-* [Submit Form](http://manikoth.com/as1/)
+* [Assignmnet 1](http://manikoth.com/as1)
 
 ## Midterm & Finals
 
