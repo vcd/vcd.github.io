@@ -25,19 +25,27 @@ section p {
 	font-weight: bold;
 	text-align: center;
 	margin: -.6em 0 .25em 0;
-
-	transition: margin-top .5s;
+	
+	-moz-transition: margin-top .5s ease-in-out;
+	transition: margin-top .5s ease-in-out;
 }
 
-section:hover .logo {
+section:nth-child(1) .logo {
+	margin-top: -.75em;
+}
+
+section:hover .logo,
+section:nth-child(1):hover .logo {
 	margin-top: .15em;
 }
+
+
 
 section:nth-child(3) .logo {
 	letter-spacing: -24px;
 }
 
-section:nth-child(1){
+section:nth-child(1) {
 		background: #52edc7; 
 		background-image: linear-gradient(#52edc7, #5ac8fb);
 		background: -moz-linear-gradient(top,  #52edc7 0%, #5ac8fb 100%);
