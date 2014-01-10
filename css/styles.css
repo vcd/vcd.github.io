@@ -31,15 +31,14 @@ section p {
 }
 
 section:nth-child(1) .logo {
-	margin-top: -.75em;
+	margin: -.75em 0 .45em 0;
 }
 
 section:hover .logo,
 section:nth-child(1):hover .logo {
-	margin-top: .15em;
+	margin-top: 0;
+	text-shadow: 0 0 20px #ccc;
 }
-
-
 
 section:nth-child(3) .logo {
 	letter-spacing: -24px;
@@ -47,11 +46,11 @@ section:nth-child(3) .logo {
 
 section:nth-child(1) {
 		background: #52edc7; 
-		background-image: linear-gradient(#52edc7, #5ac8fb);
-		background: -moz-linear-gradient(top,  #52edc7 0%, #5ac8fb 100%);
-		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#52edc7), color-stop(100%,#5ac8fb)); 
-		background: -webkit-linear-gradient(top,  #52edc7 0%,#5ac8fb 100%); 
-		background: linear-gradient(to bottom,  #52edc787fc70 0%,#5ac8fb 100%); 
+		background-image: linear-gradient(#5ac8fb, #52edc7);
+		background: -moz-linear-gradient(top, #5ac8fb 0%, #52edc7 100%);
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#5ac8fb), color-stop(100%,#52edc7)); 
+		background: -webkit-linear-gradient(top, #5ac8fb 0%, #52edc7 100%); 
+		background: linear-gradient(to bottom, #5ac8fb 0%, #52edc7 100%); 
 }
 
 section:nth-child(2) {
