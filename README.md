@@ -1,4 +1,4 @@
-vcd.github.io
+EWU.design
 =============
 
-Home for all VCD Web Design courses. Emoji.
+Dept. of Design at Eastern Washington University
